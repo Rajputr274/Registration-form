@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(179, 249, 249);
+    border:  2px red;
+    padding-left: 2%;
+    font-size: 112%;
+    border: 5px red;
+    margin: 20px;
+    
+
+
+}
+
+.option{
+   padding-top: 2px;
+    margin-bottom: 10px;
+}
+li{
+    padding-left: 20px;
+}
